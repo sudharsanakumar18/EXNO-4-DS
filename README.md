@@ -30,6 +30,10 @@ The feature selection techniques used are:
 
 # CODING AND OUTPUT:
 ```
+```
+Developed by : SUDHARSANA KUMAR S R
+Register No : 212223240162
+```
 import pandas as pd
 from scipy import stats
 import numpy as np
